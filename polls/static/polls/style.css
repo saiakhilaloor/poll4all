@@ -1,0 +1,12 @@
+body {
+    background-color: #fff;
+    font-size: 25px;
+}
+li a {
+    font-family: sans-serif;
+    color: #16ff9f;
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+}
